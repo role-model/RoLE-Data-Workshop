@@ -1,6 +1,5 @@
 *.pyc
 *~
-.DS_Store
 .ipynb_checkpoints
 .sass-cache
 .jekyll-cache/
@@ -13,5 +12,4 @@ _site
 .vendor/
 .docker-vendor/
 Gemfile.lock
-*.DS_Store
 RoLE-Data-Workshop.Rproj

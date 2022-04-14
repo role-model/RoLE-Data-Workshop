@@ -2,6 +2,7 @@
 layout: reference
 ---
 
+<!-- 
 ## Glossary - Data processing and visualization for metagenomics
 
 {:auto_ids} 
@@ -147,3 +148,4 @@ Species richness:
 while loop
 :   A loop that keeps executing as long as some condition is true.
     See also: [for loop](#for-loop).
+ -->
