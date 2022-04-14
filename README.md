@@ -7,7 +7,7 @@
 
 # Introduction to data management and eco-evo process modeling for multidimensional biodiversity data
 
-(Template building from the [Carpentries Incubator metagenomics lesson](github.com/carpentries-incubator/metagenomica))
+(Template building from the [Carpentries Incubator metagenomics lesson](https://github.com/carpentries-incubator/metagenomica))
 
 ## Contribution
 
